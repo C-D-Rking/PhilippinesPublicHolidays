@@ -1,0 +1,1115 @@
+1960 {New Year’s Day - January 1}
+1960 {Day of Valor - April 9}
+1960 {Maundy Thursday - April 14}
+1960 {Good Friday - April 15}
+1960 {Black Saturday - April 16}
+1960 {Easter Sunday - April 17}
+1960 {Labor Day - May 1}
+1960 {Independence Day - July 4}
+1960 {National Heroes Day - August 28}
+1960 {All Saints’ Day - November 1}
+1960 {All Souls’ Day - November 2}
+1960 {Bonifacio Day - November 30}
+1960 {Christmas Day - December 25}
+1960 {Rizal Day - December 30}
+
+1961 {New Year’s Day - January 1}
+1961 {Day of Valor - April 9}
+1961 {Maundy Thursday - March 30}
+1961 {Good Friday - March 31}
+1961 {Black Saturday - April 1}
+1961 {Easter Sunday - April 2}
+1961 {Labor Day - May 1}
+1961 {Independence Day - July 4}
+1961 {National Heroes Day - August 27}
+1961 {All Saints’ Day - November 1}
+1961 {All Souls’ Day - November 2}
+1961 {Bonifacio Day - November 30}
+1961 {Christmas Day - December 25}
+1961 {Rizal Day - December 30}
+
+1962 {New Year’s Day - January 1}
+1962 {Day of Valor - April 9}
+1962 {Maundy Thursday - April 19}
+1962 {Good Friday - April 20}
+1962 {Black Saturday - April 21}
+1962 {Easter Sunday - April 22}
+1962 {Labor Day - May 1}
+1962 {Independence Day - June 12}
+1962 {Republic Day - July 4}
+1962 {National Heroes Day - August 26}
+1962 {All Saints’ Day - November 1}
+1962 {All Souls’ Day - November 2}
+1962 {Bonifacio Day - November 30}
+1962 {Christmas Day - December 25}
+1962 {Rizal Day - December 30}
+
+1963 {New Year’s Day - January 1}
+1963 {Day of Valor - April 9}
+1963 {Maundy Thursday - April 11}
+1963 {Good Friday - April 12}
+1963 {Black Saturday - April 13}
+1963 {Easter Sunday - April 14}
+1963 {Labor Day - May 1}
+1963 {Independence Day - July 4}
+1963 {National Heroes Day - August 25}
+1963 {All Saints’ Day - November 1}
+1963 {All Souls’ Day - November 2}
+1963 {Bonifacio Day - November 30}
+1963 {Christmas Day - December 25}
+1963 {Rizal Day - December 30}
+
+1964 {New Year’s Day - January 1}
+1964 {Day of Valor - April 9}
+1964 {Maundy Thursday - April 23}
+1964 {Good Friday - April 24}
+1964 {Black Saturday - April 25}
+1964 {Easter Sunday - April 26}
+1964 {Labor Day - May 1}
+1964 {Independence Day - June 12}
+1964 {Republic Day - July 4}
+1964 {National Heroes Day - August 30}
+1964 {All Saints’ Day - November 1}
+1964 {All Souls’ Day - November 2}
+1964 {Bonifacio Day - November 30}
+1964 {Christmas Day - December 25}
+1964 {Rizal Day - December 30}
+
+1965 {New Year’s Day - January 1}
+1965 {Day of Valor - April 9}
+1965 {Maundy Thursday - April 8}
+1965 {Good Friday - April 9}
+1965 {Black Saturday - April 10}
+1965 {Easter Sunday - April 11}
+1965 {Labor Day - May 1}
+1965 {Independence Day - June 12}
+1965 {Republic Day - July 4}
+1965 {National Heroes Day - August 29}
+1965 {All Saints’ Day - November 1}
+1965 {All Souls’ Day - November 2}
+1965 {Bonifacio Day - November 30}
+1965 {Christmas Day - December 25}
+1965 {Rizal Day - December 30}
+
+1966 {New Year’s Day - January 1}
+1966 {Day of Valor - April 9}
+1966 {Maundy Thursday - March 31}
+1966 {Good Friday - April 1}
+1966 {Black Saturday - April 2}
+1966 {Easter Sunday - April 3}
+1966 {Labor Day - May 1}
+1966 {Independence Day - June 12}
+1966 {Republic Day - July 4}
+1966 {National Heroes Day - August 28}
+1966 {All Saints’ Day - November 1}
+1966 {All Souls’ Day - November 2}
+1966 {Bonifacio Day - November 30}
+1966 {Christmas Day - December 25}
+1966 {Rizal Day - December 30}
+
+1967 {New Year’s Day - January 1}
+1967 {Day of Valor - April 9}
+1967 {Maundy Thursday - April 13}
+1967 {Good Friday - April 14}
+1967 {Black Saturday - April 15}
+1967 {Easter Sunday - April 16}
+1967 {Labor Day - May 1}
+1967 {Independence Day - June 12}
+1967 {Republic Day - July 4}
+1967 {National Heroes Day - August 27}
+1967 {All Saints’ Day - November 1}
+1967 {All Souls’ Day - November 2}
+1967 {Bonifacio Day - November 30}
+1967 {Christmas Day - December 25}
+1967 {Rizal Day - December 30}
+
+1968 {New Year’s Day - January 1}
+1968 {Day of Valor - April 9}
+1968 {Maundy Thursday - April 4}
+1968 {Good Friday - April 5}
+1968 {Black Saturday - April 6}
+1968 {Easter Sunday - April 7}
+1968 {Labor Day - May 1}
+1968 {Independence Day - June 12}
+1968 {Republic Day - July 4}
+1968 {National Heroes Day - August 25}
+1968 {All Saints’ Day - November 1}
+1968 {All Souls’ Day - November 2}
+1968 {Bonifacio Day - November 30}
+1968 {Christmas Day - December 25}
+1968 {Rizal Day - December 30}
+
+1969 {New Year’s Day - January 1}
+1969 {Day of Valor - April 9}
+1969 {Maundy Thursday - April 17}
+1969 {Good Friday - April 18}
+1969 {Black Saturday - April 19}
+1969 {Easter Sunday - April 20}
+1969 {Labor Day - May 1}
+1969 {Independence Day - June 12}
+1969 {Republic Day - July 4}
+1969 {National Heroes Day - August 31}
+1969 {All Saints’ Day - November 1}
+1969 {All Souls’ Day - November 2}
+1969 {Bonifacio Day - November 30}
+1969 {Christmas Day - December 25}
+1969 {Rizal Day - December 30}
+
+1970 {New Year’s Day - January 1}
+1970 {Day of Valor - April 9}
+1970 {Maundy Thursday - April 9}
+1970 {Good Friday - April 10}
+1970 {Black Saturday - April 11}
+1970 {Easter Sunday - April 12}
+1970 {Labor Day - May 1}
+1970 {Independence Day - June 12}
+1970 {Republic Day - July 4}
+1970 {National Heroes Day - August 30}
+1970 {All Saints’ Day - November 1}
+1970 {All Souls’ Day - November 2}
+1970 {Bonifacio Day - November 30}
+1970 {Christmas Day - December 25}
+1970 {Rizal Day - December 30}
+
+1971 {New Year’s Day - January 1}
+1971 {Day of Valor - April 9}
+1971 {Maundy Thursday - April 1}
+1971 {Good Friday - April 2}
+1971 {Black Saturday - April 3}
+1971 {Easter Sunday - April 4}
+1971 {Labor Day - May 1}
+1971 {Independence Day - June 12}
+1971 {Republic Day - July 4}
+1971 {National Heroes Day - August 29}
+1971 {All Saints’ Day - November 1}
+1971 {All Souls’ Day - November 2}
+1971 {Bonifacio Day - November 30}
+1971 {Christmas Day - December 25}
+1971 {Rizal Day - December 30}
+
+1972 {New Year’s Day - January 1}
+1972 {Day of Valor - April 9}
+1972 {Maundy Thursday - March 23}
+1972 {Good Friday - March 24}
+1972 {Black Saturday - March 25}
+1972 {Easter Sunday - March 26}
+1972 {Labor Day - May 1}
+1972 {Independence Day - June 12}
+1972 {Republic Day - July 4}
+1972 {National Heroes Day - August 27}
+1972 {All Saints’ Day - November 1}
+1972 {All Souls’ Day - November 2}
+1972 {Bonifacio Day - November 30}
+1972 {Christmas Day - December 25}
+1972 {Rizal Day - December 30}
+
+1973 {New Year’s Day - January 1}
+1973 {Day of Valor - April 9}
+1973 {Maundy Thursday - April 12}
+1973 {Good Friday - April 13}
+1973 {Black Saturday - April 14}
+1973 {Easter Sunday - April 15}
+1973 {Labor Day - May 1}
+1973 {Independence Day - June 12}
+1973 {Republic Day - July 4}
+1973 {National Heroes Day - August 26}
+1973 {All Saints’ Day - November 1}
+1973 {All Souls’ Day - November 2}
+1973 {Bonifacio Day - November 30}
+1973 {Christmas Day - December 25}
+1973 {Rizal Day - December 30}
+
+1974 {New Year’s Day - January 1}
+1974 {Day of Valor - April 9}
+1974 {Maundy Thursday - April 4}
+1974 {Good Friday - April 5}
+1974 {Black Saturday - April 6}
+1974 {Easter Sunday - April 7}
+1974 {Labor Day - May 1}
+1974 {Independence Day - June 12}
+1974 {Republic Day - July 4}
+1974 {National Heroes Day - August 25}
+1974 {All Saints’ Day - November 1}
+1974 {All Souls’ Day - November 2}
+1974 {Bonifacio Day - November 30}
+1974 {Christmas Day - December 25}
+1974 {Rizal Day - December 30}
+
+1975 {New Year’s Day - January 1}
+1975 {Day of Valor - April 9}
+1975 {Maundy Thursday - March 27}
+1975 {Good Friday - March 28}
+1975 {Black Saturday - March 29}
+1975 {Easter Sunday - March 30}
+1975 {Labor Day - May 1}
+1975 {Independence Day - June 12}
+1975 {Republic Day - July 4}
+1975 {National Heroes Day - August 31}
+1975 {All Saints’ Day - November 1}
+1975 {All Souls’ Day - November 2}
+1975 {Bonifacio Day - November 30}
+1975 {Christmas Day - December 25}
+1975 {Rizal Day - December 30}
+
+1976 {New Year’s Day - January 1}
+1976 {Day of Valor - April 9}
+1976 {Maundy Thursday - April 15}
+1976 {Good Friday - April 16}
+1976 {Black Saturday - April 17}
+1976 {Easter Sunday - April 18}
+1976 {Labor Day - May 1}
+1976 {Independence Day - June 12}
+1976 {Republic Day - July 4}
+1976 {National Heroes Day - August 29}
+1976 {All Saints’ Day - November 1}
+1976 {All Souls’ Day - November 2}
+1976 {Bonifacio Day - November 30}
+1976 {Christmas Day - December 25}
+1976 {Rizal Day - December 30}
+
+1977 {New Year’s Day - January 1}
+1977 {Day of Valor - April 9}
+1977 {Maundy Thursday - April 7}
+1977 {Good Friday - April 8}
+1977 {Black Saturday - April 9}
+1977 {Easter Sunday - April 10}
+1977 {Labor Day - May 1}
+1977 {Independence Day - June 12}
+1977 {Republic Day - July 4}
+1977 {National Heroes Day - August 28}
+1977 {All Saints’ Day - November 1}
+1977 {All Souls’ Day - November 2}
+1977 {Bonifacio Day - November 30}
+1977 {Christmas Day - December 25}
+1977 {Rizal Day - December 30}
+
+1978 {New Year’s Day - January 1}
+1978 {Day of Valor - April 9}
+1978 {Maundy Thursday - March 30}
+1978 {Good Friday - March 31}
+1978 {Black Saturday - April 1}
+1978 {Easter Sunday - April 2}
+1978 {Labor Day - May 1}
+1978 {Independence Day - June 12}
+1978 {Republic Day - July 4}
+1978 {National Heroes Day - August 27}
+1978 {All Saints’ Day - November 1}
+1978 {All Souls’ Day - November 2}
+1978 {Bonifacio Day - November 30}
+1978 {Christmas Day - December 25}
+1978 {Rizal Day - December 30}
+
+1979 {New Year’s Day - January 1}
+1979 {Day of Valor - April 9}
+1979 {Maundy Thursday - April 19}
+1979 {Good Friday - April 20}
+1979 {Black Saturday - April 21}
+1979 {Easter Sunday - April 22}
+1979 {Labor Day - May 1}
+1979 {Independence Day - June 12}
+1979 {Republic Day - July 4}
+1979 {National Heroes Day - August 26}
+1979 {All Saints’ Day - November 1}
+1979 {All Souls’ Day - November 2}
+1979 {Bonifacio Day - November 30}
+1979 {Christmas Day - December 25}
+1979 {Rizal Day - December 30}
+
+1980 {New Year’s Day - January 1}
+1980 {Day of Valor - April 9}
+1980 {Maundy Thursday - April 10}
+1980 {Good Friday - April 11}
+1980 {Black Saturday - April 12}
+1980 {Easter Sunday - April 13}
+1980 {Labor Day - May 1}
+1980 {Independence Day - June 12}
+1980 {Republic Day - July 4}
+1980 {National Heroes Day - August 25}
+1980 {All Saints’ Day - November 1}
+1980 {All Souls’ Day - November 2}
+1980 {Bonifacio Day - November 30}
+1980 {Christmas Day - December 25}
+1980 {Rizal Day - December 30}
+
+1981 {New Year’s Day - January 1}
+1981 {Day of Valor - April 9}
+1981 {Maundy Thursday - April 2}
+1981 {Good Friday - April 3}
+1981 {Black Saturday - April 4}
+1981 {Easter Sunday - April 5}
+1981 {Labor Day - May 1}
+1981 {Independence Day - June 12}
+1981 {Republic Day - July 4}
+1981 {National Heroes Day - August 31}
+1981 {All Saints’ Day - November 1}
+1981 {All Souls’ Day - November 2}
+1981 {Bonifacio Day - November 30}
+1981 {Christmas Day - December 25}
+1981 {Rizal Day - December 30}
+
+1982 {New Year’s Day - January 1}
+1982 {Day of Valor - April 9}
+1982 {Maundy Thursday - April 15}
+1982 {Good Friday - April 16}
+1982 {Black Saturday - April 17}
+1982 {Easter Sunday - April 18}
+1982 {Labor Day - May 1}
+1982 {Independence Day - June 12}
+1982 {Republic Day - July 4}
+1982 {National Heroes Day - August 30}
+1982 {All Saints’ Day - November 1}
+1982 {All Souls’ Day - November 2}
+1982 {Bonifacio Day - November 30}
+1982 {Christmas Day - December 25}
+1982 {Rizal Day - December 30}
+
+1983 {New Year’s Day - January 1}
+1983 {Day of Valor - April 9}
+1983 {Maundy Thursday - April 7}
+1983 {Good Friday - April 8}
+1983 {Black Saturday - April 9}
+1983 {Easter Sunday - April 10}
+1983 {Labor Day - May 1}
+1983 {Independence Day - June 12}
+1983 {Republic Day - July 4}
+1983 {National Heroes Day - August 28}
+1983 {All Saints’ Day - November 1}
+1983 {All Souls’ Day - November 2}
+1983 {Bonifacio Day - November 30}
+1983 {Christmas Day - December 25}
+1983 {Rizal Day - December 30}
+
+1984 {New Year’s Day - January 1}
+1984 {Day of Valor - April 9}
+1984 {Maundy Thursday - April 19}
+1984 {Good Friday - April 20}
+1984 {Black Saturday - April 21}
+1984 {Easter Sunday - April 22}
+1984 {Labor Day - May 1}
+1984 {Independence Day - June 12}
+1984 {Republic Day - July 4}
+1984 {National Heroes Day - August 26}
+1984 {All Saints’ Day - November 1}
+1984 {All Souls’ Day - November 2}
+1984 {Bonifacio Day - November 30}
+1984 {Christmas Day - December 25}
+1984 {Rizal Day - December 30}
+
+1985 {New Year’s Day - January 1}
+1985 {Day of Valor - April 9}
+1985 {Maundy Thursday - April 4}
+1985 {Good Friday - April 5}
+1985 {Black Saturday - April 6}
+1985 {Easter Sunday - April 7}
+1985 {Labor Day - May 1}
+1985 {Independence Day - June 12}
+1985 {Republic Day - July 4}
+1985 {National Heroes Day - August 25}
+1985 {All Saints’ Day - November 1}
+1985 {All Souls’ Day - November 2}
+1985 {Bonifacio Day - November 30}
+1985 {Christmas Day - December 25}
+1985 {Rizal Day - December 30}
+
+1986 {New Year’s Day - January 1}
+1986 {Day of Valor - April 9}
+1986 {Maundy Thursday - April 24}
+1986 {Good Friday - April 25}
+1986 {Black Saturday - April 26}
+1986 {Easter Sunday - April 27}
+1986 {Labor Day - May 1}
+1986 {Independence Day - June 12}
+1986 {Republic Day - July 4}
+1986 {National Heroes Day - August 31}
+1986 {All Saints’ Day - November 1}
+1986 {All Souls’ Day - November 2}
+1986 {Bonifacio Day - November 30}
+1986 {Christmas Day - December 25}
+1986 {Rizal Day - December 30}
+
+1987 {New Year’s Day - January 1}
+1987 {Day of Valor - April 9}
+1987 {Maundy Thursday - April 9}
+1987 {Good Friday - April 10}
+1987 {Black Saturday - April 11}
+1987 {Easter Sunday - April 12}
+1987 {Labor Day - May 1}
+1987 {Independence Day - June 12}
+1987 {People Power Revolution Anniversary - February 25}
+1987 {National Heroes Day - August 31}
+1987 {All Saints’ Day - November 1}
+1987 {All Souls’ Day - November 2}
+1987 {Bonifacio Day - November 30}
+1987 {Christmas Day - December 25}
+1987 {Rizal Day - December 30}
+
+1988 {New Year’s Day - January 1}
+1988 {Day of Valor - April 9}
+1988 {Maundy Thursday - April 21}
+1988 {Good Friday - April 22}
+1988 {Black Saturday - April 23}
+1988 {Easter Sunday - April 24}
+1988 {Labor Day - May 1}
+1988 {Independence Day - June 12}
+1988 {People Power Revolution Anniversary - February 25}
+1988 {National Heroes Day - August 29}
+1988 {All Saints’ Day - November 1}
+1988 {All Souls’ Day - November 2}
+1988 {Bonifacio Day - November 30}
+1988 {Christmas Day - December 25}
+1988 {Rizal Day - December 30}
+
+1989 {New Year’s Day - January 1}
+1989 {Day of Valor - April 9}
+1989 {Maundy Thursday - April 13}
+1989 {Good Friday - April 14}
+1989 {Black Saturday - April 15}
+1989 {Easter Sunday - April 16}
+1989 {Labor Day - May 1}
+1989 {Independence Day - June 12}
+1989 {People Power Revolution Anniversary - February 25}
+1989 {National Heroes Day - August 27}
+1989 {All Saints’ Day - November 1}
+1989 {All Souls’ Day - November 2}
+1989 {Bonifacio Day - November 30}
+1989 {Christmas Day - December 25}
+1989 {Rizal Day - December 30}
+
+1990 {New Year’s Day - January 1}
+1990 {Day of Valor - April 9}
+1990 {Maundy Thursday - March 29}
+1990 {Good Friday - March 30}
+1990 {Black Saturday - March 31}
+1990 {Easter Sunday - April 1}
+1990 {Labor Day - May 1}
+1990 {Independence Day - June 12}
+1990 {People Power Revolution Anniversary - February 25}
+1990 {National Heroes Day - August 26}
+1990 {All Saints’ Day - November 1}
+1990 {All Souls’ Day - November 2}
+1990 {Bonifacio Day - November 30}
+1990 {Christmas Day - December 25}
+1990 {Rizal Day - December 30}
+
+1991 {New Year’s Day - January 1}
+1991 {Day of Valor - April 9}
+1991 {Maundy Thursday - April 11}
+1991 {Good Friday - April 12}
+1991 {Black Saturday - April 13}
+1991 {Easter Sunday - April 14}
+1991 {Labor Day - May 1}
+1991 {Independence Day - June 12}
+1991 {People Power Revolution Anniversary - February 25}
+1991 {National Heroes Day - August 25}
+1991 {All Saints’ Day - November 1}
+1991 {All Souls’ Day - November 2}
+1991 {Bonifacio Day - November 30}
+1991 {Christmas Day - December 25}
+1991 {Rizal Day - December 30}
+
+1992 {New Year’s Day - January 1}
+1992 {Day of Valor - April 9}
+1992 {Maundy Thursday - April 2}
+1992 {Good Friday - April 3}
+1992 {Black Saturday - April 4}
+1992 {Easter Sunday - April 5}
+1992 {Labor Day - May 1}
+1992 {Independence Day - June 12}
+1992 {People Power Revolution Anniversary - February 25}
+1992 {National Heroes Day - August 30}
+1992 {All Saints’ Day - November 1}
+1992 {All Souls’ Day - November 2}
+1992 {Bonifacio Day - November 30}
+1992 {Christmas Day - December 25}
+1992 {Rizal Day - December 30}
+
+1993 {New Year’s Day - January 1}
+1993 {Day of Valor - April 9}
+1993 {Maundy Thursday - April 15}
+1993 {Good Friday - April 16}
+1993 {Black Saturday - April 17}
+1993 {Easter Sunday - April 18}
+1993 {Labor Day - May 1}
+1993 {Independence Day - June 12}
+1993 {People Power Revolution Anniversary - February 25}
+1993 {National Heroes Day - August 29}
+1993 {All Saints’ Day - November 1}
+1993 {All Souls’ Day - November 2}
+1993 {Bonifacio Day - November 30}
+1993 {Christmas Day - December 25}
+1993 {Rizal Day - December 30}
+
+1994 {New Year’s Day - January 1}
+1994 {Day of Valor - April 9}
+1994 {Maundy Thursday - April 7}
+1994 {Good Friday - April 8}
+1994 {Black Saturday - April 9}
+1994 {Easter Sunday - April 10}
+1994 {Labor Day - May 1}
+1994 {Independence Day - June 12}
+1994 {People Power Revolution Anniversary - February 25}
+1994 {National Heroes Day - August 28}
+1994 {All Saints’ Day - November 1}
+1994 {All Souls’ Day - November 2}
+1994 {Bonifacio Day - November 30}
+1994 {Christmas Day - December 25}
+1994 {Rizal Day - December 30}
+
+1995 {New Year’s Day - January 1}
+1995 {Day of Valor - April 9}
+1995 {Maundy Thursday - April 13}
+1995 {Good Friday - April 14}
+1995 {Black Saturday - April 15}
+1995 {Easter Sunday - April 16}
+1995 {Labor Day - May 1}
+1995 {Independence Day - June 12}
+1995 {People Power Revolution Anniversary - February 25}
+1995 {National Heroes Day - August 27}
+1995 {All Saints’ Day - November 1}
+1995 {All Souls’ Day - November 2}
+1995 {Bonifacio Day - November 30}
+1995 {Christmas Day - December 25}
+1995 {Rizal Day - December 30}
+
+1996 {New Year’s Day - January 1}
+1996 {Day of Valor - April 9}
+1996 {Maundy Thursday - April 4}
+1996 {Good Friday - April 5}
+1996 {Black Saturday - April 6}
+1996 {Easter Sunday - April 7}
+1996 {Labor Day - May 1}
+1996 {Independence Day - June 12}
+1996 {People Power Revolution Anniversary - February 25}
+1996 {National Heroes Day - August 25}
+1996 {All Saints’ Day - November 1}
+1996 {All Souls’ Day - November 2}
+1996 {Bonifacio Day - November 30}
+1996 {Christmas Day - December 25}
+1996 {Rizal Day - December 30}
+
+1997 {New Year’s Day - January 1}
+1997 {Day of Valor - April 9}
+1997 {Maundy Thursday - April 17}
+1997 {Good Friday - April 18}
+1997 {Black Saturday - April 19}
+1997 {Easter Sunday - April 20}
+1997 {Labor Day - May 1}
+1997 {Independence Day - June 12}
+1997 {People Power Revolution Anniversary - February 25}
+1997 {National Heroes Day - August 31}
+1997 {All Saints’ Day - November 1}
+1997 {All Souls’ Day - November 2}
+1997 {Bonifacio Day - November 30}
+1997 {Christmas Day - December 25}
+1997 {Rizal Day - December 30}
+
+1998 {New Year’s Day - January 1}
+1998 {Day of Valor - April 9}
+1998 {Maundy Thursday - April 2}
+1998 {Good Friday - April 3}
+1998 {Black Saturday - April 4}
+1998 {Easter Sunday - April 5}
+1998 {Labor Day - May 1}
+1998 {Independence Day - June 12}
+1998 {People Power Revolution Anniversary - February 25}
+1998 {National Heroes Day - August 30}
+1998 {All Saints’ Day - November 1}
+1998 {All Souls’ Day - November 2}
+1998 {Bonifacio Day - November 30}
+1998 {Christmas Day - December 25}
+1998 {Rizal Day - December 30}
+
+1999 {New Year’s Day - January 1}
+1999 {Day of Valor - April 9}
+1999 {Maundy Thursday - April 15}
+1999 {Good Friday - April 16}
+1999 {Black Saturday - April 17}
+1999 {Easter Sunday - April 18}
+1999 {Labor Day - May 1}
+1999 {Independence Day - June 12}
+1999 {People Power Revolution Anniversary - February 25}
+1999 {National Heroes Day - August 29}
+1999 {All Saints’ Day - November 1}
+1999 {All Souls’ Day - November 2}
+1999 {Bonifacio Day - November 30}
+1999 {Christmas Day - December 25}
+1999 {Rizal Day - December 30}
+
+2000 {New Year’s Day - January 1}
+2000 {Day of Valor - April 9}
+2000 {Maundy Thursday - April 20}
+2000 {Good Friday - April 21}
+2000 {Black Saturday - April 22}
+2000 {Easter Sunday - April 23}
+2000 {Labor Day - May 1}
+2000 {Independence Day - June 12}
+2000 {People Power Revolution Anniversary - February 25}
+2000 {National Heroes Day - August 27}
+2000 {All Saints’ Day - November 1}
+2000 {All Souls’ Day - November 2}
+2000 {Bonifacio Day - November 30}
+2000 {Christmas Day - December 25}
+2000 {Rizal Day - December 30}
+
+2001 {New Year’s Day - January 1}
+2001 {Day of Valor - April 9}
+2001 {Maundy Thursday - April 12}
+2001 {Good Friday - April 13}
+2001 {Black Saturday - April 14}
+2001 {Easter Sunday - April 15}
+2001 {Labor Day - May 1}
+2001 {Independence Day - June 12}
+2001 {People Power Revolution Anniversary - February 25}
+2001 {National Heroes Day - August 26}
+2001 {All Saints’ Day - November 1}
+2001 {All Souls’ Day - November 2}
+2001 {Bonifacio Day - November 30}
+2001 {Christmas Day - December 25}
+2001 {Rizal Day - December 30}
+
+2002 {New Year’s Day - January 1}
+2002 {Day of Valor - April 9}
+2002 {Maundy Thursday - March 28}
+2002 {Good Friday - March 29}
+2002 {Black Saturday - March 30}
+2002 {Easter Sunday - March 31}
+2002 {Labor Day - May 1}
+2002 {Independence Day - June 12}
+2002 {People Power Revolution Anniversary - February 25}
+2002 {National Heroes Day - August 26}
+2002 {All Saints’ Day - November 1}
+2002 {All Souls’ Day - November 2}
+2002 {Bonifacio Day - November 30}
+2002 {Eid al-Fitr - December 6}
+2002 {Christmas Day - December 25}
+2002 {Rizal Day - December 30}
+
+2003 {New Year’s Day - January 1}
+2003 {Day of Valor - April 9}
+2003 {Maundy Thursday - April 17}
+2003 {Good Friday - April 18}
+2003 {Black Saturday - April 19}
+2003 {Easter Sunday - April 20}
+2003 {Labor Day - April 28}
+2003 {Independence Day - June 12}
+2003 {People Power Revolution Anniversary - February 25}
+2003 {National Heroes Day - August 25}
+2003 {All Saints’ Day - November 1}
+2003 {All Souls’ Day - November 2}
+2003 {Bonifacio Day - November 30}
+2003 {Eid al-Fitr - November 26}
+2003 {Christmas Day - December 25}
+2003 {Rizal Day - December 30}
+
+2004 {New Year’s Day - January 1}
+2004 {Day of Valor - April 9}
+2004 {Maundy Thursday - April 8}
+2004 {Good Friday - April 9}
+2004 {Black Saturday - April 10}
+2004 {Easter Sunday - April 11}
+2004 {Labor Day - May 1}
+2004 {Independence Day - June 12}
+2004 {People Power Revolution Anniversary - February 25}
+2004 {National Heroes Day - August 30}
+2004 {All Saints’ Day - November 1}
+2004 {All Souls’ Day - November 2}
+2004 {Bonifacio Day - November 30}
+2004 {Eid al-Fitr - November 14}
+2004 {Christmas Day - December 25}
+2004 {Rizal Day - December 30}
+
+2005 {New Year’s Day - January 1}
+2005 {Day of Valor - April 9}
+2005 {Maundy Thursday - March 24}
+2005 {Good Friday - March 25}
+2005 {Black Saturday - March 26}
+2005 {Easter Sunday - March 27}
+2005 {Labor Day - May 1}
+2005 {Independence Day - June 12}
+2005 {People Power Revolution Anniversary - February 25}
+2005 {National Heroes Day - August 29}
+2005 {All Saints’ Day - November 1}
+2005 {All Souls’ Day - November 2}
+2005 {Bonifacio Day - November 30}
+2005 {Eid al-Fitr - November 4}
+2005 {Christmas Day - December 25}
+2005 {Rizal Day - December 30}
+
+2006 {New Year’s Day - January 1}
+2006 {Day of Valor - April 9}
+2006 {Maundy Thursday - April 13}
+2006 {Good Friday - April 14}
+2006 {Black Saturday - April 15}
+2006 {Easter Sunday - April 16}
+2006 {Labor Day - May 1}
+2006 {Independence Day - June 12}
+2006 {People Power Revolution Anniversary - February 25}
+2006 {National Heroes Day - August 28}
+2006 {All Saints’ Day - November 1}
+2006 {All Souls’ Day - November 2}
+2006 {Bonifacio Day - November 30}
+2006 {Eid al-Fitr - October 25}
+2006 {Christmas Day - December 25}
+2006 {Rizal Day - December 30}
+
+2007 {New Year’s Day - January 1}
+2007 {Day of Valor - April 9}
+2007 {Maundy Thursday - March 29}
+2007 {Good Friday - March 30}
+2007 {Black Saturday - March 31}
+2007 {Easter Sunday - April 1}
+2007 {Labor Day - May 1}
+2007 {Independence Day - June 12}
+2007 {People Power Revolution Anniversary - February 25}
+2007 {National Heroes Day - August 27}
+2007 {All Saints’ Day - November 1}
+2007 {All Souls’ Day - November 2}
+2007 {Bonifacio Day - November 30}
+2007 {Eid al-Fitr - October 12}
+2007 {Christmas Day - December 25}
+2007 {Rizal Day - December 30}
+
+2008 {New Year’s Day - January 1}
+2008 {Day of Valor - April 9}
+2008 {Maundy Thursday - March 20}
+2008 {Good Friday - March 21}
+2008 {Black Saturday - March 22}
+2008 {Easter Sunday - March 23}
+2008 {Labor Day - May 1}
+2008 {Independence Day - June 12}
+2008 {People Power Revolution Anniversary - February 25}
+2008 {National Heroes Day - August 25}
+2008 {All Saints’ Day - November 1}
+2008 {All Souls’ Day - November 2}
+2008 {Bonifacio Day - November 30}
+2008 {Eid al-Fitr - September 30}
+2008 {Christmas Day - December 25}
+2008 {Rizal Day - December 30}
+
+2009 {New Year’s Day - January 1}
+2009 {Day of Valor - April 9}
+2009 {Maundy Thursday - April 9}
+2009 {Good Friday - April 10}
+2009 {Black Saturday - April 11}
+2009 {Easter Sunday - April 12}
+2009 {Labor Day - May 1}
+2009 {Independence Day - June 12}
+2009 {People Power Revolution Anniversary - February 25}
+2009 {National Heroes Day - August 31}
+2009 {All Saints’ Day - November 1}
+2009 {All Souls’ Day - November 2}
+2009 {Bonifacio Day - November 30}
+2009 {Eid al-Fitr - September 20}
+2009 {Eid al-Adha - December 19}
+2009 {Christmas Day - December 25}
+2009 {Rizal Day - December 30}
+
+2010 {New Year’s Day - January 1}
+2010 {Day of Valor - April 9}
+2010 {Maundy Thursday - April 1}
+2010 {Good Friday - April 2}
+2010 {Black Saturday - April 3}
+2010 {Easter Sunday - April 4}
+2010 {Labor Day - May 1}
+2010 {Independence Day - June 12}
+2010 {People Power Revolution Anniversary - February 25}
+2010 {National Heroes Day - August 30}
+2010 {All Saints’ Day - November 1}
+2010 {All Souls’ Day - November 2}
+2010 {Bonifacio Day - November 30}
+2010 {Eid al-Fitr - September 9}
+2010 {Eid al-Adha - November 27}
+2010 {Christmas Day - December 25}
+2010 {Rizal Day - December 30}
+
+2011 {New Year’s Day - January 1}
+2011 {Day of Valor - April 9}
+2011 {Maundy Thursday - April 21}
+2011 {Good Friday - April 22}
+2011 {Black Saturday - April 23}
+2011 {Easter Sunday - April 24}
+2011 {Labor Day - May 1}
+2011 {Independence Day - June 12}
+2011 {People Power Revolution Anniversary - February 25}
+2011 {National Heroes Day - August 29}
+2011 {All Saints’ Day - November 1}
+2011 {All Souls’ Day - November 2}
+2011 {Bonifacio Day - November 30}
+2011 {Eid al-Fitr - August 29}
+2011 {Eid al-Adha - November 16}
+2011 {Christmas Day - December 25}
+2011 {Rizal Day - December 30}
+
+2012 {New Year’s Day - January 1}
+2012 {Day of Valor - April 9}
+2012 {Maundy Thursday - April 5}
+2012 {Good Friday - April 6}
+2012 {Black Saturday - April 7}
+2012 {Easter Sunday - April 8}
+2012 {Labor Day - May 1}
+2012 {Independence Day - June 12}
+2012 {People Power Revolution Anniversary - February 25}
+2012 {National Heroes Day - August 27}
+2012 {All Saints’ Day - November 1}
+2012 {All Souls’ Day - November 2}
+2012 {Bonifacio Day - November 30}
+2012 {Eid al-Fitr - August 19}
+2012 {Eid al-Adha - November 5}
+2012 {Christmas Day - December 25}
+2012 {Rizal Day - December 30}
+
+2013 {New Year’s Day - January 1}
+2013 {Day of Valor - April 9}
+2013 {Maundy Thursday - March 28}
+2013 {Good Friday - March 29}
+2013 {Black Saturday - March 30}
+2013 {Easter Sunday - March 31}
+2013 {Labor Day - May 1}
+2013 {Independence Day - June 12}
+2013 {People Power Revolution Anniversary - February 25}
+2013 {National Heroes Day - August 26}
+2013 {All Saints’ Day - November 1}
+2013 {All Souls’ Day - November 2}
+2013 {Bonifacio Day - November 30}
+2013 {Eid al-Fitr - August 8}
+2013 {Eid al-Adha - October 25}
+2013 {Christmas Day - December 25}
+2013 {Rizal Day - December 30}
+
+2014 {New Year’s Day - January 1}
+2014 {Day of Valor - April 9}
+2014 {Maundy Thursday - April 17}
+2014 {Good Friday - April 18}
+2014 {Black Saturday - April 19}
+2014 {Easter Sunday - April 20}
+2014 {Labor Day - May 1}
+2014 {Independence Day - June 12}
+2014 {People Power Revolution Anniversary - February 25}
+2014 {National Heroes Day - August 25}
+2014 {All Saints’ Day - November 1}
+2014 {All Souls’ Day - November 2}
+2014 {Bonifacio Day - November 30}
+2014 {Eid al-Fitr - July 29}
+2014 {Eid al-Adha - October 15}
+2014 {Christmas Day - December 25}
+2014 {Rizal Day - December 30}
+
+2015 {New Year’s Day - January 1}
+2015 {Day of Valor - April 9}
+2015 {Maundy Thursday - April 2}
+2015 {Good Friday - April 3}
+2015 {Black Saturday - April 4}
+2015 {Easter Sunday - April 5}
+2015 {Labor Day - May 1}
+2015 {Independence Day - June 12}
+2015 {People Power Revolution Anniversary - February 25}
+2015 {National Heroes Day - August 31}
+2015 {All Saints’ Day - November 1}
+2015 {All Souls’ Day - November 2}
+2015 {Bonifacio Day - November 30}
+2015 {Eid al-Fitr - July 17}
+2015 {Eid al-Adha - October 4}
+2015 {Christmas Day - December 25}
+2015 {Rizal Day - December 30}
+
+2016 {New Year’s Day - January 1}
+2016 {Day of Valor - April 9}
+2016 {Maundy Thursday - March 24}
+2016 {Good Friday - March 25}
+2016 {Black Saturday - March 26}
+2016 {Easter Sunday - March 27}
+2016 {Labor Day - May 1}
+2016 {Independence Day - June 12}
+2016 {People Power Revolution Anniversary - February 25}
+2016 {National Heroes Day - August 29}
+2016 {All Saints’ Day - November 1}
+2016 {All Souls’ Day - November 2}
+2016 {Bonifacio Day - November 30}
+2016 {Eid al-Fitr - July 7}
+2016 {Eid al-Adha - September 24}
+2016 {Christmas Day - December 25}
+2016 {Rizal Day - December 30}
+
+2017 {New Year’s Day - January 1}
+2017 {Day of Valor - April 9}
+2017 {Maundy Thursday - April 13}
+2017 {Good Friday - April 14}
+2017 {Black Saturday - April 15}
+2017 {Easter Sunday - April 16}
+2017 {Labor Day - May 1}
+2017 {Independence Day - June 12}
+2017 {People Power Revolution Anniversary - February 25}
+2017 {National Heroes Day - August 28}
+2017 {All Saints’ Day - November 1}
+2017 {All Souls’ Day - November 2}
+2017 {Bonifacio Day - November 30}
+2017 {Eid al-Fitr - June 26}
+2017 {Eid al-Adha - September 12}
+2017 {Christmas Day - December 25}
+2017 {Rizal Day - December 30}
+
+2018 {New Year’s Day - January 1}
+2018 {Day of Valor - April 9}
+2018 {Maundy Thursday - March 29}
+2018 {Good Friday - March 30}
+2018 {Black Saturday - March 31}
+2018 {Easter Sunday - April 1}
+2018 {Labor Day - May 1}
+2018 {Independence Day - June 12}
+2018 {People Power Revolution Anniversary - February 25}
+2018 {National Heroes Day - August 27}
+2018 {All Saints’ Day - November 1}
+2018 {All Souls’ Day - November 2}
+2018 {Bonifacio Day - November 30}
+2018 {Eid al-Fitr - June 15}
+2018 {Eid al-Adha - August 21}
+2018 {Feast of the Immaculate Conception - December 8}
+2018 {Christmas Eve - December 24}
+2018 {Christmas Day - December 25}
+2018 {Rizal Day - December 30}
+2018 {New Year’s Eve - December 31}
+
+2019 {New Year’s Day - January 1}
+2019 {Day of Valor - April 9}
+2019 {Maundy Thursday - April 18}
+2019 {Good Friday - April 19}
+2019 {Black Saturday - April 20}
+2019 {Easter Sunday - April 21}
+2019 {Labor Day - May 1}
+2019 {Independence Day - June 12}
+2019 {People Power Revolution Anniversary - February 25}
+2019 {National Heroes Day - August 26}
+2019 {All Saints’ Day - November 1}
+2019 {All Souls’ Day - November 2}
+2019 {Bonifacio Day - November 30}
+2019 {Eid al-Fitr - June 5}
+2019 {Eid al-Adha - August 12}
+2019 {Feast of the Immaculate Conception - December 8}
+2019 {Christmas Eve - December 24}
+2019 {Christmas Day - December 25}
+2019 {Rizal Day - December 30}
+2019 {New Year’s Eve - December 31}
+
+2020 {New Year’s Day - January 1}
+2020 {Day of Valor - April 9}
+2020 {Maundy Thursday - April 9}
+2020 {Good Friday - April 10}
+2020 {Black Saturday - April 11}
+2020 {Easter Sunday - April 12}
+2020 {Labor Day - May 1}
+2020 {Independence Day - June 12}
+2020 {People Power Revolution Anniversary - February 25}
+2020 {National Heroes Day - August 31}
+2020 {All Saints’ Day - November 1}
+2020 {All Souls’ Day - November 2}
+2020 {Bonifacio Day - November 30}
+2020 {Eid al-Fitr - May 24}
+2020 {Eid al-Adha - July 31}
+2020 {Feast of the Immaculate Conception - December 8}
+2020 {Christmas Eve - December 24}
+2020 {Christmas Day - December 25}
+2020 {Rizal Day - December 30}
+2020 {New Year’s Eve - December 31}
+
+2021 {New Year’s Day - January 1}
+2021 {Day of Valor - April 9}
+2021 {Maundy Thursday - April 1}
+2021 {Good Friday - April 2}
+2021 {Black Saturday - April 3}
+2021 {Easter Sunday - April 4}
+2021 {Labor Day - May 1}
+2021 {Independence Day - June 12}
+2021 {People Power Revolution Anniversary - February 25}
+2021 {National Heroes Day - August 30}
+2021 {All Saints’ Day - November 1}
+2021 {All Souls’ Day - November 2}
+2021 {Bonifacio Day - November 30}
+2021 {Eid al-Fitr - May 13}
+2021 {Eid al-Adha - July 20}
+2021 {Feast of the Immaculate Conception - December 8}
+2021 {Christmas Eve - December 24}
+2021 {Christmas Day - December 25}
+2021 {Rizal Day - December 30}
+2021 {New Year’s Eve - December 31}
+
+2022 {New Year’s Day - January 1}
+2022 {Day of Valor - April 9}
+2022 {Maundy Thursday - April 14}
+2022 {Good Friday - April 15}
+2022 {Black Saturday - April 16}
+2022 {Easter Sunday - April 17}
+2022 {Labor Day - May 1}
+2022 {Independence Day - June 12}
+2022 {People Power Revolution Anniversary - February 25}
+2022 {National Heroes Day - August 29}
+2022 {All Saints’ Day - November 1}
+2022 {All Souls’ Day - November 2}
+2022 {Bonifacio Day - November 30}
+2022 {Eid al-Fitr - May 2}
+2022 {Eid al-Adha - July 9}
+2022 {Feast of the Immaculate Conception - December 8}
+2022 {Christmas Eve - December 24}
+2022 {Christmas Day - December 25}
+2022 {Rizal Day - December 30}
+2022 {New Year’s Eve - December 31}
+
+2023 {New Year’s Day - January 1}
+2023 {Day of Valor - April 9}
+2023 {Maundy Thursday - April 6}
+2023 {Good Friday - April 7}
+2023 {Black Saturday - April 8}
+2023 {Easter Sunday - April 9}
+2023 {Labor Day - May 1}
+2023 {Independence Day - June 12}
+2023 {People Power Revolution Anniversary - February 25}
+2023 {National Heroes Day - August 28}
+2023 {All Saints’ Day - November 1}
+2023 {All Souls’ Day - November 2}
+2023 {Bonifacio Day - November 30}
+2023 {Eid al-Fitr - April 22}
+2023 {Eid al-Adha - June 28}
+2023 {Feast of the Immaculate Conception - December 8}
+2023 {Christmas Eve - December 24}
+2023 {Christmas Day - December 25}
+2023 {Rizal Day - December 30}
+2023 {New Year’s Eve - December 31}
+
+2024 {New Year’s Day - January 1}
+2024 {Day of Valor - April 9}
+2024 {Maundy Thursday - March 28}
+2024 {Good Friday - March 29}
+2024 {Black Saturday - March 30}
+2024 {Easter Sunday - March 31}
+2024 {Labor Day - May 1}
+2024 {Independence Day - June 12}
+2024 {National Heroes Day - August 26}
+2024 {All Saints’ Day - November 1}
+2024 {All Souls’ Day - November 2}
+2024 {Bonifacio Day - November 30}
+2024 {Eid al-Fitr - April 10}
+2024 {Eid al-Adha - June 16}
+2024 {Feast of the Immaculate Conception - December 8}
+2024 {Christmas Eve - December 24}
+2024 {Christmas Day - December 25}
+2024 {Rizal Day - December 30}
+2024 {New Year’s Eve - December 31}
+
+2025 {New Year’s Day - January 1}
+2025 {Day of Valor - April 9}
+2025 {Maundy Thursday - April 17}
+2025 {Good Friday - April 18}
+2025 {Black Saturday - April 19}
+2025 {Easter Sunday - April 20}
+2025 {Labor Day - May 1}
+2025 {Independence Day - June 12}
+2025 {National Heroes Day - August 25}
+2025 {All Saints’ Day - November 1}
+2025 {All Souls’ Day - November 2}
+2025 {Bonifacio Day - November 30}
+2025 {Eid al-Fitr - March 31}
+2025 {Eid al-Adha - June 6}
+2025 {Feast of the Immaculate Conception - December 8}
+2025 {Christmas Eve - December 24}
+2025 {Christmas Day - December 25}
+2025 {Rizal Day - December 30}
+2025 {New Year’s Eve - December 31}

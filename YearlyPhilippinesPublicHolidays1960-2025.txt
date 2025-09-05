@@ -1,0 +1,1162 @@
+1960 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 14",
+"Good Friday - April 15",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - July 4",
+"National Heroes' Day - August 28",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1961 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 30",
+"Good Friday - March 31",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - July 4",
+"National Heroes' Day - August 27",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1962 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 19",
+"Good Friday - April 20",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - July 4",
+"Philippine Independence Day - June 12",
+"National Heroes' Day - August 26",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1963 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 11",
+"Good Friday - April 12",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 25",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1964 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 26",
+"Good Friday - March 27",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 30",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1965 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 15",
+"Good Friday - April 16",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 29",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1966 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 7",
+"Good Friday - April 8",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 28",
+"Manila Day - June 24",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1967 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 23",
+"Good Friday - March 24",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 27",
+"Philippine Army Day - March 22",
+"Manila Day - June 24",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1968 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 11",
+"Good Friday - April 12",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 25",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1969 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 3",
+"Good Friday - April 4",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 31",
+"Manila Day - June 24",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1970 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 26",
+"Good Friday - March 27",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 30",
+"Manila Day - June 24",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1971 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 8",
+"Good Friday - April 9",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 29",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1972 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 30",
+"Good Friday - March 31",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 27",
+"Manila Day - June 24",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1973 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 19",
+"Good Friday - April 20",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 26",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1974 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 11",
+"Good Friday - April 12",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 25",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1975 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 27",
+"Good Friday - March 28",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 31",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1976 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 15",
+"Good Friday - April 16",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 29",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30"
+}
+
+1977 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 7",
+"Good Friday - April 8",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 28",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - September 16",
+"Eid'l Adha - November 24"
+}
+
+1978 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 23",
+"Good Friday - March 24",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 27",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - September 5",
+"Eid'l Adha - November 13"
+}
+
+1979 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 12",
+"Good Friday - April 13",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 26",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - August 25",
+"Eid'l Adha - November 2"
+}
+
+1980 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 3",
+"Good Friday - April 4",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Philippine Republic Day - July 4",
+"National Heroes' Day - August 31",
+"Manila Day - June 24",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - August 14",
+"Eid'l Adha - October 23"
+}
+
+1981 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 16",
+"Good Friday - April 17",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 30",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - August 3",
+"Eid'l Adha - October 13"
+}
+
+1982 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 8",
+"Good Friday - April 9",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 29",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - July 23",
+"Eid'l Adha - October 2"
+}
+
+1983 {
+"New Year's Day - January 1",
+"Maundy Thursday - March 31",
+"Good Friday - April 1",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 28",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - July 12",
+"Eid'l Adha - September 21"
+}
+
+1984 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 19",
+"Good Friday - April 20",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 26",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - July 1",
+"Eid'l Adha - September 9"
+}
+
+1985 {
+"New Year's Day - January 1",
+"Maundy Thursday - April 4",
+"Good Friday - April 5",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 25",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - June 20",
+"Eid'l Adha - August 29"
+}
+
+1986 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 27",
+"Good Friday - March 28",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 31",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - June 10",
+"Eid'l Adha - August 19"
+}
+
+1987 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 16",
+"Good Friday - April 17",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 30",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - May 30",
+"Eid'l Adha - August 8"
+}
+
+1988 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 31",
+"Good Friday - April 1",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 28",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - May 19",
+"Eid'l Adha - July 28"
+}
+
+1989 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 23",
+"Good Friday - March 24",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 27",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - May 8",
+"Eid'l Adha - July 17"
+}
+
+1990 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 12",
+"Good Friday - April 13",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 26",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - April 28",
+"Eid'l Adha - July 6"
+}
+
+1991 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 28",
+"Good Friday - March 29",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 25",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - April 18",
+"Eid'l Adha - June 26"
+}
+
+1992 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 16",
+"Good Friday - April 17",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 30",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - April 7",
+"Eid'l Adha - June 15"
+}
+
+1993 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 8",
+"Good Friday - April 9",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 29",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - March 27",
+"Eid'l Adha - June 4"
+}
+
+1994 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 31",
+"Good Friday - April 1",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 28",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - March 17",
+"Eid'l Adha - May 25"
+}
+
+1995 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 13",
+"Good Friday - April 14",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 27",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - March 7",
+"Eid'l Adha - May 15"
+}
+
+1996 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 4",
+"Good Friday - April 5",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 25",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - February 25",
+"Eid'l Adha - May 3"
+}
+
+1997 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 27",
+"Good Friday - March 28",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 31",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - February 15",
+"Eid'l Adha - April 22"
+}
+
+1998 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 9",
+"Good Friday - April 10",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 30",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - February 4",
+"Eid'l Adha - April 11"
+}
+
+1999 {
+"New Year's Day - January 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 1",
+"Good Friday - April 2",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 29",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - January 23",
+"Eid'l Adha - March 31"
+}
+
+2000 {
+"New Year's Day - January 1",
+"Chinese New Year - February 5",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 20",
+"Good Friday - April 21",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 27",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - January 11",
+"Eid'l Adha - March 20"
+}
+
+2001 {
+"New Year's Day - January 1",
+"Chinese New Year - January 24",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 12",
+"Good Friday - April 13",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 26",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - December 16",
+"Eid'l Adha - March 7"
+}
+
+2002 {
+"New Year's Day - January 1",
+"Chinese New Year - February 12",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 28",
+"Good Friday - March 29",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 25",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - December 6",
+"Eid'l Adha - February 24"
+}
+
+2003 {
+"New Year's Day - January 1",
+"Chinese New Year - February 1",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 17",
+"Good Friday - April 18",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 31",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - November 25",
+"Eid'l Adha - February 12"
+}
+
+2004 {
+"New Year's Day - January 1",
+"Chinese New Year - January 22",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 8",
+"Good Friday - April 9",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 29",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - November 14",
+"Eid'l Adha - February 2"
+}
+
+2005 {
+"New Year's Day - January 1",
+"Chinese New Year - February 9",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 24",
+"Good Friday - March 25",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 28",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - November 3",
+"Eid'l Adha - January 21"
+}
+
+2006 {
+"New Year's Day - January 1",
+"Chinese New Year - January 29",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 13",
+"Good Friday - April 14",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 27",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - October 24",
+"Eid'l Adha - January 10"
+}
+
+2007 {
+"New Year's Day - January 1",
+"Chinese New Year - February 18",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 5",
+"Good Friday - April 6",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 26",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - October 13",
+"Eid'l Adha - December 20"
+}
+
+2008 {
+"New Year's Day - January 1",
+"Chinese New Year - February 7",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 20",
+"Good Friday - March 21",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"National Heroes' Day - August 31",
+"Bonifacio Day - November 30",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Eid'l Fitr - October 1",
+"Eid'l Adha - December 9"
+}
+
+2009 {
+"New Year's Day - January 1",
+"Chinese New Year - January 26",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 9",
+"Good Friday - April 10",
+"Black Saturday - April 11",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 31",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - September 21",
+"Eid'l Adha - November 27"
+}
+
+2010 {
+"New Year's Day - January 1",
+"Chinese New Year - February 14",
+"EDSA Revolution Anniversary - February 22",
+"Maundy Thursday - April 1",
+"Good Friday - April 2",
+"Black Saturday - April 3",
+"Day of Valor - April 9",
+"Labor Day - May 3",
+"Independence Day - June 12",
+"National Heroes' Day - August 30",
+"Ninoy Aquino Day - August 23",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 29",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 27",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - September 10",
+"Eid'l Adha - November 17"
+}
+
+2011 {
+"New Year's Day - January 1",
+"Chinese New Year - February 3",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 21",
+"Good Friday - April 22",
+"Black Saturday - April 23",
+"Day of Valor - April 9",
+"Labor Day - May 2",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 29",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - August 31",
+"Eid'l Adha - November 7"
+}
+
+2012 {
+"New Year's Day - January 1",
+"Chinese New Year - January 23",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 5",
+"Good Friday - April 6",
+"Black Saturday - April 7",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 27",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - August 19",
+"Eid'l Adha - October 26"
+}
+
+2013 {
+"New Year's Day - January 1",
+"Chinese New Year - February 10",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 28",
+"Good Friday - March 29",
+"Black Saturday - March 30",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 26",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - August 8",
+"Eid'l Adha - October 15"
+}
+
+2014 {
+"New Year's Day - January 1",
+"Chinese New Year - January 31",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 17",
+"Good Friday - April 18",
+"Black Saturday - April 19",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 25",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - July 28",
+"Eid'l Adha - October 4"
+}
+
+2015 {
+"New Year's Day - January 1",
+"Chinese New Year - February 19",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 2",
+"Good Friday - April 3",
+"Black Saturday - April 4",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 31",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - July 17",
+"Eid'l Adha - September 24"
+}
+
+2016 {
+"New Year's Day - January 1",
+"Chinese New Year - February 8",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 24",
+"Good Friday - March 25",
+"Black Saturday - March 26",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 29",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - July 6",
+"Eid'l Adha - September 12"
+}
+
+2017 {
+"New Year's Day - January 1",
+"Chinese New Year - January 28",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 13",
+"Good Friday - April 14",
+"Black Saturday - April 15",
+"Day of Valor - April 10",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 28",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - June 25",
+"Eid'l Adha - September 1"
+}
+
+2018 {
+"New Year's Day - January 1",
+"Day of National Remembrance - January 25",
+"Chinese New Year - February 16",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - March 29",
+"Good Friday - March 30",
+"Black Saturday - March 31",
+"Day of Valor - April 9",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 27",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - June 15",
+"Eid'l Adha - August 22"
+}
+
+2019 {
+"New Year's Day - January 1",
+"First Philippine Republic Day - January 23",
+"Day of National Remembrance - January 25",
+"Chinese New Year - February 5",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 18",
+"Good Friday - April 19",
+"Black Saturday - April 20",
+"Day of Valor - April 9",
+"Lapu-Lapu Day - April 27",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 26",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - June 5",
+"Eid'l Adha - August 12"
+}
+
+2020 {
+"New Year's Day - January 1",
+"First Philippine Republic Day - January 23",
+"Day of National Remembrance - January 25",
+"Chinese New Year - January 25",
+"Philippine-American War Memorial Day - February 4",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 9",
+"Good Friday - April 10",
+"Black Saturday - April 11",
+"Day of Valor - April 9",
+"Lapu-Lapu Day - April 27",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 31",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - May 24",
+"Eid'l Adha - July 31"
+}
+
+2021 {
+"New Year's Day - January 1",
+"First Philippine Republic Day - January 23",
+"Day of National Remembrance - January 25",
+"Chinese New Year - February 12",
+"Philippine-American War Memorial Day - February 4",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 1",
+"Good Friday - April 2",
+"Black Saturday - April 3",
+"Day of Valor - April 9",
+"Lapu-Lapu Day - April 27",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 30",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - May 13",
+"Eid'l Adha - July 20"
+}
+
+2022 {
+"New Year's Day - January 1",
+"First Philippine Republic Day - January 23",
+"Day of National Remembrance - January 25",
+"Chinese New Year - February 1",
+"Philippine-American War Memorial Day - February 4",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 14",
+"Good Friday - April 15",
+"Black Saturday - April 16",
+"Day of Valor - April 9",
+"Lapu-Lapu Day - April 27",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 29",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - May 2",
+"Eid'l Adha - July 9"
+}
+
+2023 {
+"New Year's Day - January 1",
+"First Philippine Republic Day - January 23",
+"Day of National Remembrance - January 25",
+"Chinese New Year - January 22",
+"Philippine-American War Memorial Day - February 4",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 6",
+"Good Friday - April 7",
+"Black Saturday - April 8",
+"Day of Valor - April 10",
+"Lapu-Lapu Day - April 27",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 28",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 27",
+"Feast of the Immaculate Conception of Mary - December 8",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - April 22",
+"Eid'l Adha - June 29"
+}
+
+2024 {
+"New Year's Day - January 1",
+"First Philippine Republic Day - January 23",
+"Day of National Remembrance - January 25",
+"Chinese New Year - February 10",
+"Philippine-American War Memorial Day - February 4",
+"EDSA Revolution Anniversary - February 25 (Special Working Day)",
+"Maundy Thursday - March 28",
+"Good Friday - March 29",
+"Black Saturday - March 30",
+"Day of Valor - April 9",
+"Lapu-Lapu Day - April 27",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 26",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 25",
+"Feast of the Immaculate Conception of Mary - December 8",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - April 10",
+"Eid'l Adha - June 17"
+}
+
+2025 {
+"New Year's Day - January 1",
+"First Philippine Republic Day - January 23",
+"Day of National Remembrance - January 25",
+"Chinese New Year - January 29",
+"Philippine-American War Memorial Day - February 4",
+"EDSA Revolution Anniversary - February 25",
+"Maundy Thursday - April 17",
+"Good Friday - April 18",
+"Black Saturday - April 19",
+"Day of Valor - April 9",
+"Lapu-Lapu Day - April 27",
+"Labor Day - May 1",
+"Independence Day - June 12",
+"Ninoy Aquino Day - August 21",
+"National Heroes' Day - August 25",
+"All Saints' Day - November 1",
+"Bonifacio Day - November 30",
+"Feast of the Immaculate Conception of Mary - December 8",
+"Christmas Eve - December 24",
+"Christmas Day - December 25",
+"Rizal Day - December 30",
+"Last Day of the Year - December 31",
+"Eid'l Fitr - April 1",
+"Eid'l Adha - June 6"
+}
